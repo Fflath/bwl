@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bwl"
+  site-url: "https://Fflath.github.io/bwl"
+  description: "bwl"
+  repo-branch: main
+  repo-url: "https://github.com/Fflath/bwl"
